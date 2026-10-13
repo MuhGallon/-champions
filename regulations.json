@@ -1,0 +1,35 @@
+{
+  "version": "2026-10-13.1",
+  "checkedAt": "2026-10-13",
+  "active": "Reg M-C Doubles",
+  "regulations": [
+    {
+      "id": "Reg M-C Doubles",
+      "name": "Champions Regulation M-C",
+      "start": "2026-09-09",
+      "end": null,
+      "source": "Unverified starter; replace with official rules citation before marking verified",
+      "species": [],
+      "rules": {
+        "battle": "Doubles",
+        "teamSize": 6,
+        "bring": 4
+      },
+      "verified": false
+    },
+    {
+      "id": "Reg M-B Doubles",
+      "name": "Champions Regulation M-B (archive)",
+      "start": null,
+      "end": null,
+      "source": "Archived placeholder, unverified",
+      "species": [],
+      "rules": {
+        "battle": "Doubles",
+        "teamSize": 6,
+        "bring": 4
+      },
+      "verified": false
+    }
+  ]
+}
